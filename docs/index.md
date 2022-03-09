@@ -30,10 +30,25 @@ In order to know where to connect things, we will revisit the pinout diagram of 
 I connected my ESP32 to a breadboard and used female-female and male-male wires to connect the sensors to the correct spots in the board. For the button, one wire went to G and another went to pin 22. For the potentiometer, the middle pin/wire went to pin 15 and the outer two went to G and 3.3V. Finally, for the joystick the pin that says GND goes to G, the pin that says 5V goes to 3V, the pin that says VRx goes to pin 12 and the pin that says VRy goes to pin 13.
 
 ## Software Setup:
+I wrote two programs for the software: one arduino .ino program and a web application (using flask). The .ino program should be uploaded to the ESP32 and sends the sensor data through the serial connection to the computer. To run the website, go to the directory with the server.py file, run it (python3 server.py), then go to the url indicated in your terminal. The web application (specifically the .js file) accesses the serialized sensor data and the website reacts accordingly.
+
+An important library I used for packaging the sensor data as a JSON object is: ArduinoJson.h
+- helpful link: https://arduinojson.org/
 
 ## Container Setup:
+I took a small cardboard box and cut holes at the top for the 3 sensors and one for the USB cable. I secured the breadboard to the bottom of the box and connected all the wires correctly.
+
+![IMG_3557](https://user-images.githubusercontent.com/69936719/157558678-3ff9b02f-b793-4274-be62-ddaf4ccc6234.jpeg)
+
+![IMG_3556](https://user-images.githubusercontent.com/69936719/157558908-893de2f6-5a3d-4a4f-895f-c26ced8a60d2.jpeg)
+
+![IMG_3555](https://user-images.githubusercontent.com/69936719/157558921-bf39cb42-b5a3-4ec0-a97b-aff8af3194ed.jpeg)
 
 ## Get it going!
+See instructions in the Software Setup Section!
+
+https://user-images.githubusercontent.com/69936719/157558814-53fd72ca-8576-4b27-9fe1-33cb35f247a9.MOV
+
 
 
 
