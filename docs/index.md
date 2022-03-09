@@ -24,7 +24,10 @@ General Steps
 - Writing the software
 
 ## Hardware Setup:
+In order to know where to connect things, we will revisit the pinout diagram of the board we are using. This tells us what each pin can do.
+<img width=1000 src="https://www.paleotechnologist.net/wp-content/uploads/2021/02/H39c2130da52e43e7ac7ccee871075b46E.png">
 
+I connected my ESP32 to a breadboard and used female-female and male-male wires to connect the sensors to the correct spots in the board. For the button, one wire went to G and another went to pin 22. For the potentiometer, the middle pin/wire went to pin 15 and the outer two went to G and 3.3V. Finally, for the joystick the pin that says GND goes to G, the pin that says 5V goes to 3V, the pin that says VRx goes to pin 12 and the pin that says VRy goes to pin 13.
 
 ## Software Setup:
 
