@@ -31,6 +31,8 @@ My Project:
 
 <img width="851" alt="Screen Shot 2022-03-09 at 4 53 55 PM" src="https://user-images.githubusercontent.com/69936719/157545265-57fd2267-daa3-44b9-bf7b-4fbba5524d9a.png">
 
+How to run it? --> Once you have all the hardware set up and connected to your computer, make sure you have the .ino program uploaded to your ESP32. Then all you have to do is run the server.py file on your computer (python3 server.py) to get the flask application working. Click on the screen and connect the port, now your sensors should be working.
+
 Some Helpful Links:
 * https://www.w3schools.com/css/tryit.asp?filename=trycss3_animation3
 * https://codepen.io/Catagen/pen/PqYdXR/
