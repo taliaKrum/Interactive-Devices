@@ -17,7 +17,7 @@ My Project:
     - ESP32, button, joystick and a potentiometer all connected via breadboard, and is powered by my computer 
     - I placed the wires ESP32 and breadboard inside a small cardboard box and cut out holes at the top so there is access to each of the sensors, there is also a hole for the USB cable
 
-![IMG_3554](https://user-images.githubusercontent.com/69936719/157545322-edf29be7-9cf9-4589-ba24-79de67cfb7e6.jpeg)
+![IMG_3557](https://user-images.githubusercontent.com/69936719/157546511-8fac6a3b-3e3b-472d-9e29-d8c468d890cb.jpeg)
 ![IMG_3556](https://user-images.githubusercontent.com/69936719/157545331-c4e7af46-fb31-4c75-93da-cb6e0be32eaa.jpeg)
 
 
