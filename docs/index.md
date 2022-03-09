@@ -9,6 +9,10 @@ From a hardware perspective, you will need to connect the specified components t
 ## My Project:
 
  <img width="200" alt="frog1" src="https://user-images.githubusercontent.com/69936719/157553614-7faa7ac9-c72e-4c3e-955e-9b1ff27dfb01.png">
+ 
+ <img width="200" alt="frog2" src="https://user-images.githubusercontent.com/69936719/157553726-ef2c27a1-5db4-48d1-a30f-ea2f2fb3e7db.png">
+
+<img width="200" alt="Screen Shot 2022-03-06 at 6 31 40 PM" src="https://user-images.githubusercontent.com/69936719/157553742-2b473abf-2856-4d7d-8715-3ac7436c94d2.png">
 
 For this assignment, I wanted to have my hardware interact with a website that was leaning more towards an art project than a coding assignment that I would get as homework from one of my classes. I decided to brainstorm some ideas and doodle a bit and I landed on creating an interactive background or "scenic view" and some sort of plant or animal that can move around the screen. These aspects would be controlled by the potentiometer and the joystick (respectively). Since my background was going to be changeable, I liked the idea that my organism would be able to change as well. Additionally, I needed a way to incorporate the button. Therefore, I started thinking about animals that go through metamorphosis and decided on drawing the stages of a frog's lifecycle. I was able to bring in my artistic side this way as well by drawing my own versions of the different stages leading upto a frog, and adding my png's to the project. To create this I followed the steps below.
 
