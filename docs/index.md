@@ -1,3 +1,6 @@
+## Interactive Devices
+Creative Embedded Systems Project 2
+
 ## The Assignment: 
 The goal is to create an interactive device with the following hardware: ESP32 TTGO T-display, a button, a joystick and a potentiometer. The devices will connect to your computer and send data back to your laptop for visualization, sonfication, or whatever media generation process you prefer.
 
