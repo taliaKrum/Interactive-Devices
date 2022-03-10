@@ -49,9 +49,9 @@ I took a small cardboard box and cut holes at the top for the 3 sensors and one 
 
 ## Get it going!
 
-<video controls>
- <source src="" type="video/mp4">
-</video>
+<iframe width="420" height="315"
+src="https://youtu.be/tnW0U-qQn9Q">
+</iframe>
 
 
 
