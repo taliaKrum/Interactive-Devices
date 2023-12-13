@@ -1,6 +1,5 @@
 # Interactive-Devices
-Creative Embedded Systems Project 2
-Website: https://taliakrum.github.io/Interactive-Devices/ 
+Creative Embedded Systems Project 2 - Website: https://taliakrum.github.io/Interactive-Devices/ 
 
 Project Hardware:
 * ESP32 TTGO T-display
